@@ -83,6 +83,9 @@ h2 {
     .star__icon{
         width: auto;
     }
+    .star__icon i{
+        font-size: 50px;
+    }
     .star h1{
         font-size: 35px;
         margin-bottom: 8px;
